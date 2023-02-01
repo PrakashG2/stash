@@ -1,5 +1,2 @@
 sample line 1
-<<<<<<< Updated upstream
 stash line 2
-=======
->>>>>>> Stashed changes
