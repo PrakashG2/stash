@@ -1,5 +1,5 @@
 hai there
 hello guys
 how are you
-i am good\\...
+i am good
 hello world
